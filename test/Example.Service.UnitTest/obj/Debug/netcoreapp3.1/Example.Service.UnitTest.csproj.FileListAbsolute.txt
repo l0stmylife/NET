@@ -1,0 +1,4 @@
+/home/net/test/Example.Service.UnitTest/obj/Debug/netcoreapp3.1/Example.Service.UnitTest.csprojAssemblyReference.cache
+/home/net/test/Example.Service.UnitTest/obj/Debug/netcoreapp3.1/Example.Service.UnitTest.AssemblyInfoInputs.cache
+/home/net/test/Example.Service.UnitTest/obj/Debug/netcoreapp3.1/Example.Service.UnitTest.AssemblyInfo.cs
+/home/net/test/Example.Service.UnitTest/obj/Debug/netcoreapp3.1/Example.Service.UnitTest.csproj.CoreCompileInputs.cache
