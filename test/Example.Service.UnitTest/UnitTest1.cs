@@ -1,5 +1,6 @@
-using NUnit.Framework;
 using Example.Service.Services;
+using NUnit.Framework;
+
 
 
 namespace Example.Service.UnitTest
