@@ -14,7 +14,7 @@ namespace Example.Service.UnitTest
         {
             var unitUnderTest = new ValuesService();
 	    var values = unitUnderTest.GetValues();
-	    Assert.That(values, Is.EquelTo(new[] {"Value1", "Value2", "Value3"}));
+	    Assert.That(values, Is.EqualTo(new[] {"Value1", "Value2", "Value3"}));
         }
     }
 }
